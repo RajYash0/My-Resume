@@ -348,6 +348,10 @@ nav .fa-solid {
         font-size: 30px;
     }
 
+    .about-col-1 {
+        flex-basis: 100%;
+    }
+
     nav .fa-solid {
         display: block;
         font-size: 25px;
