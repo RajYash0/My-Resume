@@ -26,7 +26,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(images/background.png);
+    background-image: url(https://i.ibb.co/L8CLG7p/background.png);
     background-size: cover;
     background-position: center;
 }
@@ -336,7 +336,7 @@ nav .fa-solid {
 /*----------------css for small screens----------------*/
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url(images/phone-background.png);
+        background-image: url(https://i.ibb.co/2gpY5Sm/phone-background.png);
     }
 
     .header-text {
